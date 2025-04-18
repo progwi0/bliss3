@@ -1,0 +1,20 @@
+/* Adwaita Mono for Bliss, Created by GNOME. */
+
+/* Font */
+
+@font-face{
+	font-family: Adwaita Mono;
+	src: url("adwaitamono.ttf");
+}
+
+body{
+	font-family: Adwaita Mono;
+}
+
+button{
+	font-family: Adwaita Mono;
+}
+
+input{
+	font-family: Adwaita Mono;
+}
