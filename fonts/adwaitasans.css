@@ -1,0 +1,20 @@
+/* Adwaita Sans for Bliss, Created by GNOME. */
+
+/* Font */
+
+@font-face{
+	font-family: Adwaita Sans;
+	src: url("adwaitasans.ttf");
+}
+
+body{
+	font-family: Adwaita Sans;
+}
+
+button{
+	font-family: Adwaita Sans;
+}
+
+input{
+	font-family: Adwaita Sans;
+}
